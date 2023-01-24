@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a261316.chunk.css",
+    "main.js": "/static/js/main.a495f011.chunk.js",
+    "main.js.map": "/static/js/main.a495f011.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a1989a45.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a1989a45.js.map",
+    "static/js/2.ebf5e841.chunk.js": "/static/js/2.ebf5e841.chunk.js",
+    "static/js/2.ebf5e841.chunk.js.map": "/static/js/2.ebf5e841.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9a6cd4d3fd81a3aa36194f75708530ef.js": "/precache-manifest.9a6cd4d3fd81a3aa36194f75708530ef.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5a261316.chunk.css.map": "/static/css/main.5a261316.chunk.css.map",
+    "static/js/2.ebf5e841.chunk.js.LICENSE.txt": "/static/js/2.ebf5e841.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/ProximaNova-Regular.410504d4.otf",
+    "static/media/add-proposal.svg": "/static/media/add-proposal.2ee48cd5.svg",
+    "static/media/avatar.png": "/static/media/avatar.27879c2f.png",
+    "static/media/bell.svg": "/static/media/bell.af740ee5.svg",
+    "static/media/eye.svg": "/static/media/eye.f2ba0444.svg",
+    "static/media/home.svg": "/static/media/home.7fe25ee8.svg",
+    "static/media/like.svg": "/static/media/like.953d939e.svg",
+    "static/media/logo.png": "/static/media/logo.147d3f56.png",
+    "static/media/no-eye.svg": "/static/media/no-eye.16422e47.svg",
+    "static/media/numio-qr.png": "/static/media/numio-qr.aeeeaae4.png",
+    "static/media/pen-n-paper.svg": "/static/media/pen-n-paper.899b4dd6.svg",
+    "static/media/reward.svg": "/static/media/reward.09d7d0ce.svg",
+    "static/media/users.svg": "/static/media/users.4c1f3170.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1989a45.js",
+    "static/js/2.ebf5e841.chunk.js",
+    "static/css/main.5a261316.chunk.css",
+    "static/js/main.a495f011.chunk.js"
+  ]
+}
